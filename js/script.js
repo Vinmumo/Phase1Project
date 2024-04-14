@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded',async(event)=>{
-fetchDataAndSetupButton('kil', 'https://phase1project-x34h.onrender.com/Kilimani');
+fetchDataAndSetupButton('kil', "https://phase1project-x34h.onrender.com/Kilimani");
 fetchDataAndSetupButton('park', 'https://phase1project-x34h.onrender.com/Parklands');
 fetchDataAndSetupButton('Lang', 'https://phase1project-x34h.onrender.com/Langata');
 fetchDataAndSetupButton('upper', 'https://phase1project-x34h.onrender.com/Upperhill');
