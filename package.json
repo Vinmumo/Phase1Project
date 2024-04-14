@@ -2,9 +2,9 @@
   "name": "house_hunter",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "server.js",
   "scripts": {
-    "start" : "node script.js"
+    "start" : "node server.js"
   },
   "keywords": [],
   "author": "",
