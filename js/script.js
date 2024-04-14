@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded',async(event)=>{
-    fetchDataAndSetupButton('kil', 'https://phase1project-qtim.onrender.com/Kilimani');
-    fetchDataAndSetupButton('park', 'https://phase1project-qtim.onrender.com/Parklands');
-    fetchDataAndSetupButton('Lang', 'https://phase1project-qtim.onrender.com/Langata');
-    fetchDataAndSetupButton('upper', 'https://phase1project-qtim.onrender.com/Upperhill');
-    fetchDataAndSetupButton('river', 'https://phase1project-qtim.onrender.com/RiverRoad');
+    fetchDataAndSetupButton('kil', 'https://phase1project-x34h.onrender.com/Kilimani');
+    fetchDataAndSetupButton('park', 'https://phase1project-x34h.onrender.com/Parklands');
+    fetchDataAndSetupButton('Lang', 'https://phase1project-x34h.onrender.com/Langata');
+    fetchDataAndSetupButton('upper', 'https://phase1project-x34h.onrender.com/Upperhill');
+    fetchDataAndSetupButton('river', 'https://phase1project-x34h.onrender.com/RiverRoad');
       })
       // Function to clear previous contents and add new contents
     // Function to clear previous contents and add new contents
