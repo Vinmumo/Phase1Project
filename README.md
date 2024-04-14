@@ -5,7 +5,7 @@
 #### By *Vincent Mumo*
 
 ## Description
-It's a web application that allows users to find homes in designated areas they may not be conversant with.
+It's a web application that allows users to find and book homes in designated areas they may not be conversant with.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
