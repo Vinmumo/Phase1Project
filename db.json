@@ -8,7 +8,7 @@
         "rent": 4500,
         "status": "vacant",
         "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-        "poster": "assets/Kilimani/4.jpeg"
+        "poster": "https://github.com/Vinmumo/Phase1Project/blob/main/assets/Kilimani/4.jpeg"
       },
       {
         "id": "2",
@@ -18,7 +18,7 @@
         "rent": 7000,
         "status": "vacant",
         "description": "Luxurious Suite with Canal View in the Heart of the City",
-        "poster": "assets/Kilimani/5.jpeg"
+        "poster": "https://github.com/Vinmumo/Phase1Project/blob/main/assets/Kilimani/5.jpeg"
       },
       {
         "id": "3",
