@@ -79,7 +79,7 @@ function fetchDataAndSetupButton(buttonId, url) {
     .then(data => {
         const button = document.getElementById(buttonId);
         button.addEventListener("click", () => {
-            updateCardContent(data); // Pass the entire data array to the update function
+            updateCardContent(data); // Pass the entire data array to the update function,
         });
     });
 }
