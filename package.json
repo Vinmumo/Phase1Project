@@ -1,10 +1,10 @@
 {
-  "name": "house-hunter",
+  "name": "house_hunter",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "script.js",
   "scripts": {
-    "start" : "node server.js"
+    "start" : "node script.js"
   },
   "keywords": [],
   "author": "",
