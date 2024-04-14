@@ -77,6 +77,7 @@ function fetchDataAndSetupButton(buttonId, url) {
     })
     .then(res => res.json())
     .then(data => {
+        console.log(data)
         const button = document.getElementById(buttonId);
         button.addEventListener("click", () => {
             updateCardContent(data); // Pass the entire data array to the update function,
