@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded',async(event)=>{
 fetchDataAndSetupButton('kil', 'https://phase1project-qtim.onrender.com/Kilimani');
-fetchDataAndSetupButton('park', 'hhttps://phase1project-qtim.onrender.com/Parklands');
+fetchDataAndSetupButton('park', 'https://phase1project-qtim.onrender.com/Parklands');
 fetchDataAndSetupButton('Lang', 'https://phase1project-qtim.onrender.com/Langata');
 fetchDataAndSetupButton('upper', 'https://phase1project-qtim.onrender.com/pperhill');
 fetchDataAndSetupButton('river', 'https://phase1project-qtim.onrender.com/RiverRoad');
