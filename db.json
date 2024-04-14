@@ -90,7 +90,7 @@
             "rent": 5500,
             "status": "vacant",
             "description": "Instagrammable Luxury Home with Hot Tub and spacious balcony",
-            "poster": "/assets/Parklands/6.jpeg"
+            "poster": "assets/Parklands/6.jpeg"
           },
           {
             "id": "4",
@@ -100,7 +100,7 @@
             "rent": 10000,
             "status": "vacant",
             "description": " Luxury City Center Loft on a Traffic-Free Street",
-            "poster": "/assets/Parklands/7.jpeg"
+            "poster": "assets/Parklands/7.jpeg"
           },
           {
             "id": "5",
@@ -110,7 +110,7 @@
             "rent": 11000,
             "status": "vacant",
             "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-            "poster": "/assets/Parklands/8.jpeg"
+            "poster": "assets/Parklands/8.jpeg"
           },
           {
             "id": "6",
@@ -120,7 +120,7 @@
             "rent": 4500,
             "status": "vacant",
             "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-            "poster": "/assets/Parklands/9.jpeg"
+            "poster": "assets/Parklands/9.jpeg"
           }
       ],
       "Langata": [
@@ -132,7 +132,7 @@
             "rent": 4500,
             "status": "vacant",
             "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-            "poster": "/assets/Langata/4.jpeg"
+            "poster": "assets/Langata/4.jpeg"
           },
           {
             "id": "2",
@@ -142,7 +142,7 @@
             "rent": 7000,
             "status": "vacant",
             "description": "Luxurious Suite with Canal View in the Heart of the City",
-            "poster": "/assets/Langata/5.jpeg"
+            "poster": "assets/Langata/5.jpeg"
           },
           {
             "id": "3",
@@ -152,7 +152,7 @@
             "rent": 5500,
             "status": "vacant",
             "description": "Instagrammable Luxury Home with Hot Tub and spacious balcony",
-            "poster": "/assets/Langata/6.jpeg"
+            "poster": "assets/Langata/6.jpeg"
           },
           {
             "id": "4",
@@ -162,7 +162,7 @@
             "rent": 10000,
             "status": "vacant",
             "description": " Luxury City Center Loft on a Traffic-Free Street",
-            "poster": "/assets/Langata/7.jpeg"
+            "poster": "assets/Langata/7.jpeg"
           },
           {
             "id": "5",
@@ -172,7 +172,7 @@
             "rent": 11000,
             "status": "vacant",
             "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-            "poster": "/assets/Langata/8.jpeg"
+            "poster": "assets/Langata/8.jpeg"
           },
           {
             "id": "6",
@@ -182,7 +182,7 @@
             "rent": 4500,
             "status": "vacant",
             "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-            "poster": "/assets/Langata/9.jpeg"
+            "poster": "assets/Langata/9.jpeg"
           }
       ],
       "Upperhill": [
@@ -194,7 +194,7 @@
             "rent": 4500,
             "status": "vacant",
             "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-            "poster": "/assets/Upperhill/4.jpeg"
+            "poster": "assets/Upperhill/4.jpeg"
           },
           {
             "id": "2",
@@ -204,7 +204,7 @@
             "rent": 7000,
             "status": "vacant",
             "description": "Luxurious Suite with Canal View in the Heart of the City",
-            "poster": "/assets/Upperhill/5.jpeg"
+            "poster": "assets/Upperhill/5.jpeg"
           },
           {
             "id": "3",
@@ -214,7 +214,7 @@
             "rent": 5500,
             "status": "vacant",
             "description": "Instagrammable Luxury Home with Hot Tub and spacious balcony",
-            "poster": "/assets/Upperhill/6.jpeg"
+            "poster": "assets/Upperhill/6.jpeg"
           },
           {
             "id": "4",
@@ -224,7 +224,7 @@
             "rent": 10000,
             "status": "vacant",
             "description": " Luxury City Center Loft on a Traffic-Free Street",
-            "poster": "/assets/Upperhill/7.jpeg"
+            "poster": "assets/Upperhill/7.jpeg"
           },
           {
             "id": "5",
@@ -234,7 +234,7 @@
             "rent": 11000,
             "status": "vacant",
             "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-            "poster": "/assets/Upperhill/8.jpeg"
+            "poster": "assets/Upperhill/8.jpeg"
           },
           {
             "id": "6",
@@ -244,7 +244,7 @@
             "rent": 4500,
             "status": "vacant",
             "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-            "poster": "/assets/Upperhill/9.jpeg"
+            "poster": "assets/Upperhill/9.jpeg"
           }
       ],
       "RiverRoad": [
@@ -256,7 +256,7 @@
             "rent": 4500,
             "status": "vacant",
             "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-            "poster": "/assets/RiverRoad/4.jpeg"
+            "poster": "assets/RiverRoad/4.jpeg"
           },
           {
             "id": "2",
@@ -266,7 +266,7 @@
             "rent": 7000,
             "status": "vacant",
             "description": "Luxurious Suite with Canal View in the Heart of the City",
-            "poster": "/assets/RiverRoad/5.jpeg"
+            "poster": "assets/RiverRoad/5.jpeg"
           },
           {
             "id": "3",
@@ -276,7 +276,7 @@
             "rent": 5500,
             "status": "vacant",
             "description": "Instagrammable Luxury Home with Hot Tub and spacious balcony",
-            "poster": "/assets/RiverRoad/6.jpeg"
+            "poster": "assets/RiverRoad/6.jpeg"
           },
           {
             "id": "4",
@@ -286,7 +286,7 @@
             "rent": 10000,
             "status": "vacant",
             "description": " Luxury City Center Loft on a Traffic-Free Street",
-            "poster": "/assets/RiverRoad/7.jpeg"
+            "poster": "assets/RiverRoad/7.jpeg"
           },
           {
             "id": "5",
@@ -296,7 +296,7 @@
             "rent": 11000,
             "status": "vacant",
             "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-            "poster": "/assets/RiverRoad/8.jpeg"
+            "poster": "assets/RiverRoad/8.jpeg"
           },
           {
             "id": "6",
@@ -306,7 +306,7 @@
             "rent": 4500,
             "status": "vacant",
             "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-            "poster": "/assets/RiverRoad/9.jpeg"
+            "poster": "assets/RiverRoad/9.jpeg"
           }
       ]
   }
