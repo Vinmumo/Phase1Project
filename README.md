@@ -20,7 +20,7 @@ Git clone https://github.com/Vinmumo/Phase1Project.git
 ```
 
 # Live Link
-[Git](https://vinmumo.github.io/Phase1Project/)
+[Git] https://vinmumo.github.io/Phase1Project/
 
 ## Technologies used
 HTML
