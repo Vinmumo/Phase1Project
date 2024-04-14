@@ -8,7 +8,7 @@
         "rent": 4500,
         "status": "vacant",
         "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-        "poster": "/assets/Kilimani/4.jpeg"
+        "poster": "assets/Kilimani/4.jpeg"
       },
       {
         "id": "2",
@@ -18,7 +18,7 @@
         "rent": 7000,
         "status": "vacant",
         "description": "Luxurious Suite with Canal View in the Heart of the City",
-        "poster": "/assets/Kilimani/5.jpeg"
+        "poster": "assets/Kilimani/5.jpeg"
       },
       {
         "id": "3",
@@ -28,7 +28,7 @@
         "rent": 5500,
         "status": "vacant",
         "description": "Instagrammable Luxury Home with Hot Tub and spacious balcony",
-        "poster": "/assets/Kilimani/6.jpeg"
+        "poster": "assets/Kilimani/6.jpeg"
       },
       {
         "id": "4",
@@ -38,7 +38,7 @@
         "rent": 10000,
         "status": "vacant",
         "description": " Luxury City Center Loft on a Traffic-Free Street",
-        "poster": "/assets/Kilimani/7.jpeg"
+        "poster": "assets/Kilimani/7.jpeg"
       },
       {
         "id": "5",
@@ -48,7 +48,7 @@
         "rent": 11000,
         "status": "vacant",
         "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-        "poster": "/assets/Kilimani/8.jpeg"
+        "poster": "assets/Kilimani/8.jpeg"
       },
       {
         "id": "6",
@@ -58,7 +58,7 @@
         "rent": 4500,
         "status": "vacant",
         "description": "This apartment is located on the first floor with a balcony and terrace in a new building. It is simple, cosy, modern, and bright.",
-        "poster": "/assets/Kilimani/9.jpeg"
+        "poster": "assets/Kilimani/9.jpeg"
       }
     ],
     "Parklands": [
