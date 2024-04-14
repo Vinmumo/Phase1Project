@@ -28,6 +28,9 @@ function updateCardContent(homes) {
             <ul class="list-unstyled list-inline mb-0">
               <li class="list-inline-item me-0">
                 <i class="fas fa-star text-warning fa-xs"> </i>
+                <i class="fas fa-star text-warning fa-xs"> </i>
+                <i class="fas fa-star text-warning fa-xs"> </i>
+                <i class="fas fa-star text-warning fa-xs"> </i>
               </li>
               <!-- Additional stars and content -->
             </ul>
@@ -84,3 +87,12 @@ function fetchDataAndSetupButton(buttonId, url) {
     });
 }
 
+document.getElementById('services').addEventListener("click",e => {
+    e.preventDefault()
+    alert("Our platform caters to a diverse range of preferences,type of residence, area amenities, and more.")
+})
+
+document.getElementById('contact').addEventListener("click", e => {
+    e.preventDefault()
+    alert("Reach us at househunterofficial@gmail.com or call 0735263723")
+})
