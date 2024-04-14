@@ -5,7 +5,7 @@
 #### By *Vincent Mumo*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+It's a web application that allows users to find homes in designated areas they may not be conversant with.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
@@ -15,21 +15,22 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+Git clone https://github.com/Vinmumo/Phase1Project.git
 
 ```
 
 # Live Link
-[Git](gh-pages link)
+[Git](https://vinmumo.github.io/Phase1Project/)
 
 ## Technologies used
 HTML
 CSS
-Github
+Git
+Bootstrap
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+github.com/Vinmumo
 
 ### License
 The content of this site is licensed under the MIT license
