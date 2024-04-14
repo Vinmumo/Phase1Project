@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded',async(event)=>{
-fetchDataAndSetupButton('kil', 'http://localhost:3000/Kilimani');
-fetchDataAndSetupButton('park', 'http://localhost:3000/Parklands');
-fetchDataAndSetupButton('Lang', 'http://localhost:3000/Langata');
-fetchDataAndSetupButton('upper', 'http://localhost:3000/Upperhill');
-fetchDataAndSetupButton('river', 'http://localhost:3000/RiverRoad');
+fetchDataAndSetupButton('kil', 'https://phase1project-2-nxnd.onrender.com/Kilimani');
+fetchDataAndSetupButton('park', 'https://phase1project-2-nxnd.onrender.com/Parklands');
+fetchDataAndSetupButton('Lang', 'https://phase1project-2-nxnd.onrender.com/Langata');
+fetchDataAndSetupButton('upper', 'https://phase1project-2-nxnd.onrender.com/Upperhill');
+fetchDataAndSetupButton('river', 'https://phase1project-2-nxnd.onrender.com/RiverRoad');
   })
   // Function to clear previous contents and add new contents
 // Function to clear previous contents and add new contents
